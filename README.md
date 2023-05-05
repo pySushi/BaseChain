@@ -1,11 +1,11 @@
-# pyChainBasic
+# BaseChain
 Basic version of agent chaining
 
 The package structure is as follows:
 
-mypackage
+BaseChain
 │
-├── mypackage
+├── BaseChain
 │   ├── __init__.py
 │   ├── answer.py
 │   ├── merge.py
